@@ -1,0 +1,10 @@
+.vscode
+Tools
+.dockerignore
+.gitattributes
+.gitignore
+README.md
+**/bin
+**/obj
+**/Dockerfile
+**/docker-compose.yml
